@@ -13,6 +13,7 @@ def submit():
     q3_answer = request.form['q3']
     q4_answer = request.form['q4']
     q5_answer = request.form['q5']
+    q6_answer = request.form['q6']
     
     score = 0
     wrong_questions = []
