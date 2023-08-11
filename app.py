@@ -43,7 +43,7 @@ def submit():
     else:
         wrong_questions.append("Question 5")
 
-    if q6_answer == 'b':
+    if q6_answer == 'c':
         score += 1
     else:
         wrong_questions.append("Question 6")
